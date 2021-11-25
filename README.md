@@ -16,6 +16,9 @@ BTCV Challenge Dataset
 
 ## Dataset Visualization
 
+![image](https://github.com/JerrycvWork/BTCV-Challenge/raw/main/data_samples.png)
+
 
 ## Pre-trained Best Model visualization
 
+![image](https://github.com/JerrycvWork/BTCV-Challenge/raw/main/result.png)
